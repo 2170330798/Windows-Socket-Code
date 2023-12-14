@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701965799 source:e:\ceasyx\filesender\main.cpp
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<locale.h>
+
