@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709280182 source:f:\udp_transform\video_call_udp_client2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<wtsapi32.h>
+

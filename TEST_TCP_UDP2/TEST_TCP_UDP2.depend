@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709276487 source:f:\udp_transform\test_tcp_udp2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+

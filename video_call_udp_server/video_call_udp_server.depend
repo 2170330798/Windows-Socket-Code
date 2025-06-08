@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709214910 source:f:\udp_transform\video_call_udp_server\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<math.h>
+	<opencv2/opencv.hpp>
+

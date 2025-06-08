@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1708442012 source:f:\udp_transform\server_udp\server\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	"Server.h"
+
+1707668716 f:\udp_transform\server_udp\server\server.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<winsock2.h>
+
+1707895608 source:f:\udp_transform\server_udp\server\server.cpp
+	"Server.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<winsock2.h>
+
